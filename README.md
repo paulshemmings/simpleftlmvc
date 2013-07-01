@@ -5,6 +5,6 @@ A light MVC framework in Java that makes use of Freemarker library to render the
 
 To use:
 
-1. Clone the code
+1. Fork the code
 2. mvn clean install
 3. mvn jetty:run
